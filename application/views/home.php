@@ -20,8 +20,7 @@
     <!-- Custom Fonts -->
     <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -46,7 +45,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Steven McConnon</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -641,22 +640,22 @@
     </div>
 
     <!-- jQuery -->
-    <script src="assets/jquery.js"></script>
+    <script src="assets/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="assets/bootstrap.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="assets/classie.js"></script>
-    <script src="assets/cbpAnimatedHeader.js"></script>
+    <script src="assets/js/classie.js"></script>
+    <script src="assets/js/cbpAnimatedHeader.js"></script>
 
     <!-- Contact Form JavaScript -->
-    <script src="assets/jqBootstrapValidation.js"></script>
-    <script src="assets/contact_me.js"></script>
+    <script src="assets/js/jqBootstrapValidation.js"></script>
+    <script src="assets/js/contact_me.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="assets/agency.js"></script>
+    <script src="assets/js/agency.js"></script>
 
 </body>
 
